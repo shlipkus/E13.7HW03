@@ -1,0 +1,15 @@
+{
+    "users": [
+        {"id": 1, "name": "Vasya", "age": 15, "status": "on"},
+        {"id": 2, "name": "Petya", "age": 18, "status": "sleep"}
+    ],
+
+    "items": [
+        {"id": 1, "name": "Iron sword", "type": "sword", "status": "equiped"},
+        {"id": 2, "name": "Iron blunt", "type": "blunt", "status": "unequiped"}
+    ],
+
+    "enemy": [
+        {"id": 1, "name": "Goblin", "lvl": 1, "agro": 0}
+    ]
+}
