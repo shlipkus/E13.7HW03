@@ -216,7 +216,6 @@
     "lint": "eslint ./src",
     "prepare": "husky"
   },
-
   "author": "",
   "license": "ISC",
   "description": ""

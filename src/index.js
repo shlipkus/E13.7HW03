@@ -1,1 +1,1 @@
-document.write('<p>Hi</p>'):dsfsdf
+document.write('<p>Hi</p>')
