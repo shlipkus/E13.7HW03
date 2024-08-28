@@ -217,12 +217,6 @@
     "prepare": "husky"
   },
 
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
-  },
-  
   "author": "",
   "license": "ISC",
   "description": ""
