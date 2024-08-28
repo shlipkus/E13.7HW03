@@ -1,1 +1,1 @@
-document.write('<p>Hi</p>')
+document.write('<p>Hi</p>'):
